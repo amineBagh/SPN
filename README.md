@@ -2,7 +2,6 @@
 # SPN
 
 ## Introduction
-![Introduction Image](URL_TO_INTRO_IMAGE)
 
 ## Business Objectives
 - **Prevent unfairness caused by human intervention.**
@@ -54,7 +53,6 @@
   - ![Modeling Phase Image 2](/read_img/8.png)
   - ![Modeling Phase Image 3](/read_img/9.png)
   - ![Modeling Phase Image 4](/read_img/10.png)
-  - ![Modeling Phase Image 5](URL_TO_MODELING_IMAGE_5)
 
 ## Metric Evaluation
 ![Metric Evaluation Image](/read_img/11.png)
