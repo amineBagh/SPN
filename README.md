@@ -32,17 +32,17 @@
 - **Normalization**
 
 ## Extracted Information
-![Extracted Info Image 1](URL_TO_EXTRACTED_INFO_IMAGE_1)
-![Extracted Info Image 2](URL_TO_EXTRACTED_INFO_IMAGE_2)
+![Extracted Info Image 1](/read_img/2.png)
+![Extracted Info Image 2](/read_img/3.png)
 
 ## Matching Process
-![Matching Process Image](URL_TO_MATCHING_PROCESS_IMAGE)
+![Matching Process Image](/read_img/4.png)
 
 ## Bivariate Analysis
-![Bivariate Analysis Image](URL_TO_BIVARIATE_ANALYSIS_IMAGE)
+![Bivariate Analysis Image](/read_img/5.png)
 
 ## Multivariate Analysis
-![Multivariate Analysis Image](URL_TO_MULTIVARIATE_ANALYSIS_IMAGE)
+![Multivariate Analysis Image](/read_img/6.png)
 
 ## Modeling Phase
 - **Image Preprocessing:** Techniques like grayscaling, resizing, noise reduction, etc.
@@ -50,29 +50,20 @@
 - **Dilation Maps:** For improved text identification.
 - **Text Extraction:** Identify the language and perform NLP for context understanding.
 - **Document Text Recognition:** Use DocTR for accurate OCR.
-  - ![Modeling Phase Image 1](URL_TO_MODELING_IMAGE_1)
-  - ![Modeling Phase Image 2](URL_TO_MODELING_IMAGE_2)
-  - ![Modeling Phase Image 3](URL_TO_MODELING_IMAGE_3)
-  - ![Modeling Phase Image 4](URL_TO_MODELING_IMAGE_4)
+  - ![Modeling Phase Image 1](/read_img/7.png)
+  - ![Modeling Phase Image 2](/read_img/8.png)
+  - ![Modeling Phase Image 3](/read_img/9.png)
+  - ![Modeling Phase Image 4](/read_img/10.png)
   - ![Modeling Phase Image 5](URL_TO_MODELING_IMAGE_5)
 
 ## Metric Evaluation
-![Metric Evaluation Image](URL_TO_METRIC_EVALUATION_IMAGE)
-
-## Deployment Phase
-- **Implementation of final pipeline**
-- **Real-time application and usage**
-  - ![Deployment Phase Image 1](URL_TO_DEPLOYMENT_IMAGE_1)
-  - ![Deployment Phase Image 2](URL_TO_DEPLOYMENT_IMAGE_2)
-  - ![Deployment Phase Image 3](URL_TO_DEPLOYMENT_IMAGE_3)
+![Metric Evaluation Image](/read_img/11.png)
 
 ## Implementing a Dashboard
 - **Interactive Visualizations**
 - **User-Friendly Interface**
-  - ![Dashboard Image 1](URL_TO_DASHBOARD_IMAGE_1)
-  - ![Dashboard Image 2](URL_TO_DASHBOARD_IMAGE_2)
-  - ![Dashboard Image 3](URL_TO_DASHBOARD_IMAGE_3)
-
+  - ![Dashboard Image 1](/read_img/12.png)
+  - ![Dashboard Image 2](/read_img/13.png)
 ---
 
 ### Contributions
