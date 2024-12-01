@@ -21,7 +21,7 @@
 - **Interactive Dashboard:** Provide client-related statistics and insights.
 
 ## Data Understanding
-![Data Understanding Image](URL_TO_DATA_UNDERSTANDING_IMAGE)
+![Data Understanding Image](1.png)
 
 ## Preprocessing Phase
 - **Contrast Enhancement**
